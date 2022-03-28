@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Graphs the 3n+1 sequence using 2 turtle objects (one graphs, the other writes the highest number of iterations in the top left). Exits if negative value is used as input
 
 ## GRACE DAYS
 Grace days used for this assignment: 0
@@ -19,7 +19,7 @@ Grace days remaining: 5/5
 None
 
 ## REFERENCES:
-None
+https://docs.python.org/3/library/turtle.html
 
 ## MISCELLANEOUS COMMENTS:
 None
